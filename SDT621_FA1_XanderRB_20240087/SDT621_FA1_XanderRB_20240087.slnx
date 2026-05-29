@@ -1,7 +1,7 @@
 <Solution>
-  <Project Path="SectionA_Question1/SectionA_Question1.csproj" />
-  <Project Path="SectionA_Question2/SectionA_Question2.csproj" />
-  <Project Path="SectionA_Question3/SectionA_Question3.csproj" />
-  <Project Path="SectionB_Question1/SectionB_Question1.csproj" />
-  <Project Path="SectionB_Question2/SectionB_Question2.csproj" />
+  <Project Path="SectionA_Question1/SectionA_Question1.csproj" Id="e711a20b-02e1-4ed0-b2ee-c686ed1f5388" />
+  <Project Path="SectionA_Question2/SectionA_Question2.csproj" Id="237fbf68-54cb-4bd3-bcc9-4aa9a0b208c8" />
+  <Project Path="SectionA_Question3/SectionA_Question3.csproj" Id="b67281f4-eeae-4046-bfa0-fcc436867ab8" />
+  <Project Path="SectionB_Question1/SectionB_Question1.csproj" Id="09ecee13-5db1-4c2d-8cbf-b448ea845b54" />
+  <Project Path="SectionB_Question2/SectionB_Question2.csproj" Id="e8dbe0a0-ff62-47bc-a1c1-9544ed06b762" />
 </Solution>

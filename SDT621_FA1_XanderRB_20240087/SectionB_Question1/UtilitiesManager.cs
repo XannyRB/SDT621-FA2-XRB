@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SectionB_Question1
 {
-    public class UitilitiesManager
+    public class UtilitiesManager
     {
         //Algorithm to calculate request urgency score
         //Score formulation based on business priority and severity
